@@ -11,8 +11,8 @@
 ## Visit My Portfolio!
 
 ### ER-Diagram Simplified
-This website allows you to make your own ER Diagram, which represent Database Structure. <br>
-This's real time async editor of diagrams, so you can edit it with your friends at the same time without reloading your browser!
+This website allows you to make your own ER Diagram, which represent database structure. <br>
+This is ***a real time async editor of diagrams***, so you can edit it with your friends at the same time without reloading your browser!
 - [Github Repository](https://github.com/Daisuke-lab/ERDiagram_Simplified)
 - [Website Link (09:00 ~ 17:00)](https://erdiagram-simplified.daisukekikuchi.net/)
 [![Watch the video](https://img.youtube.com/vi/Tu6lZYIZPkA/maxresdefault.jpg)](https://youtu.be/Tu6lZYIZPkA)
