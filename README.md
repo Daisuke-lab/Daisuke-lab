@@ -18,4 +18,4 @@ This is ***a real time async editor of diagrams***, so you can edit it with your
 [![Watch the video](https://img.youtube.com/vi/Tu6lZYIZPkA/maxresdefault.jpg)](https://youtu.be/Tu6lZYIZPkA)
 
 ## Social
-- [LinkedIn](https://cp.certmetrics.com/amazon/en/public/verify/credential/74613d43fcc547cca784ceb9fa206c6b)
+- [LinkedIn](https://linkedin.com/in/daisuke-zr)
