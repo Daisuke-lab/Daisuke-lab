@@ -1,0 +1,5 @@
+kubernetesのpngが回転してfade outしてpageが表示される。
+1 pageだけでいい。
+- about you
+- projects
+- contact
