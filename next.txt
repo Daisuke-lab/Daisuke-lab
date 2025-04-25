@@ -3,3 +3,10 @@ kubernetesのpngが回転してfade outしてpageが表示される。
 - about you
 - projects
 - contact
+
+■参考
+https://github.com/emmabostian/developer-portfolios?tab=readme-ov-file#k
+
+
+https://codesandbox.io/p/sandbox/canvas-wave-animation-4by1e?file=%2Fsrc%2FWave.js
+https://codesandbox.io/p/sandbox/canvas-animate-wave-m41es?file=%2Findex.html

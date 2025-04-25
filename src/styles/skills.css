@@ -1,0 +1,11 @@
+.skills_box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.skills_box > div {
+    margin-right: 2em;
+  }
