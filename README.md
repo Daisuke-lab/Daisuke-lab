@@ -2,6 +2,7 @@
 👋 Hi! I'm Daisuke, a passionate software engineer with MSCS. I love challenges that push the boundaries of my capabilities, and I'm always seeking new opportunities for growth in the areas of software development, DevOps, Kubernetes, Cloud Computing or any other tech-related fields!
 
 ## Certificates
+- [🧑‍🚀çKubestronaut](https://www.credly.com/badges/ebe24291-c029-4a0c-a456-89d71e829fa5)
 - [☸Certified Kubernetes Administrator](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e79bfea4-49df-4ea8-be12-a3085a30348d-daisuke-kikuchi-993de703-e98a-4360-86b8-d0c6c1f24dbb-certificate.pdf)
 - [☸Certified Kubernetes Application Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e79bfea4-49df-4ea8-be12-a3085a30348d-daisuke-kikuchi-85e3c344-ce03-4675-b4d2-4e072f53857d-certificate.pdf)
 - [☸Certified Kubernetes Security Specialist](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e79bfea4-49df-4ea8-be12-a3085a30348d-daisuke-kikuchi-ab20836d-0f45-47d8-9020-bd58f38a829f-certificate.pdf)
