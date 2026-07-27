@@ -1,5 +1,5 @@
 # 🚢 Daisuke Kikuchi (Software Engineer, DevOps Engineer)
-👋 Hi! I'm Daisuke, a passionate software engineer with MSCS. I love challenges that push the boundaries of my capabilities, and I'm always seeking new opportunities for growth in the areas of software development, DevOps, Kubernetes, Cloud Computing or any other tech-related fields!
+👋 Hi! I'm Daisuke, a passionate Sr. DevOps engineer with MSCS. I love challenges that push the boundaries of my capabilities, and I'm always seeking new opportunities for growth in the areas of software development, DevOps, Kubernetes, Cloud Computing or any other tech-related fields!
 
 ## Certificates
 - [🧑‍🚀Golden Kubestronaut](https://www.credly.com/badges/9fd0d16a-4bba-42f4-ab68-46f9e140fe3b/public_url)
